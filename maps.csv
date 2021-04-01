@@ -1,0 +1,34 @@
+id;GID_0;NAME_0;GID_1;NAME_1;VARNAME_1;NL_NAME_1;TYPE_1;ENGTYPE_1;CC_1;HASC_1
+1;IDN;Indonesia;IDN.1_1;Aceh;85;Kanwil Aceh;Propinisi;Province;11;ID.AC
+2;IDN;Indonesia;IDN.2_1;Bali;79;Kanwil Bali;Propinisi;Province;51;ID.BA
+3;IDN;Indonesia;IDN.3_1;Bangka Belitung;74;Kanwil Bangka Belitung;Propinisi;Province;19;ID.BB
+4;IDN;Indonesia;IDN.4_1;Banten;53;Kanwil Banten;Propinisi;Province;36;ID.BT
+5;IDN;Indonesia;IDN.5_1;Bengkulu;15;Kanwil Bengkulu;Propinisi;Province;17;ID.BE
+6;IDN;Indonesia;IDN.6_1;Gorontalo;78;Kanwil Gorontalo;Propinisi;Province;75;ID.GO
+7;IDN;Indonesia;IDN.7_1;Jakarta Raya;99;Kanwil Jakarta Raya;Propinisi;Province;31;ID.JK
+8;IDN;Indonesia;IDN.8_1;Jambi;98;Kanwil Jambi;Propinisi;Province;15;ID.JA
+9;IDN;Indonesia;IDN.9_1;Jawa Barat;56;Kanwil Jawa Barat;Propinisi;Province;32;ID.JR
+10;IDN;Indonesia;IDN.10_1;Jawa Tengah;17;Kanwil Jawa Tengah;Propinisi;Province;33;ID.JT
+11;IDN;Indonesia;IDN.11_1;Jawa Timur;58;Kanwil Jawa Timur;Propinisi;Province;35;ID.JI
+12;IDN;Indonesia;IDN.12_1;Kalimantan Barat;17;Kanwil Kalimantan Barat;Propinisi;Province;61;ID.KB
+13;IDN;Indonesia;IDN.13_1;Kalimantan Selatan;39;Kanwil Kalimantan Selatan;Propinisi;Province;63;ID.KS
+14;IDN;Indonesia;IDN.14_1;Kalimantan Tengah;84;Kanwil Kalimantan Tengah;Propinisi;Province;62;ID.KT
+15;IDN;Indonesia;IDN.15_1;Kalimantan Timur;52;Kanwil Kalimantan Timur;Propinisi;Province;64;ID.KM
+16;IDN;Indonesia;IDN.16_1;Kepulauan Riau;54;Kanwil Kepulauan Riau;Propinisi;Province;21;ID.KR
+17;IDN;Indonesia;IDN.17_1;Lampung;16;Kanwil Lampung;Propinisi;Province;18;ID.LA
+18;IDN;Indonesia;IDN.19_1;Maluku;14;Kanwil Maluku;Propinisi;Province;81;ID.MA
+19;IDN;Indonesia;IDN.18_1;Maluku Utara;66;Kanwil Maluku Utara;Propinisi;Province;82;ID.MU
+20;IDN;Indonesia;IDN.20_1;Nusa Tenggara Barat;27;Kanwil Nusa Tenggara Barat;Propinisi;Province;52;ID.NB
+21;IDN;Indonesia;IDN.21_1;Nusa Tenggara Timur;30;Kanwil Nusa Tenggara Timur;Propinisi;Province;53;ID.NT
+22;IDN;Indonesia;IDN.23_1;Papua;77;Kanwil Papua;Propinisi;Province;94;ID.PA
+23;IDN;Indonesia;IDN.22_1;Papua Barat;2;Kanwil Papua Barat;Propinisi;Province;91;ID.IB
+24;IDN;Indonesia;IDN.24_1;Riau;70;Kanwil Riau;Propinisi;Province;14;ID.RI
+25;IDN;Indonesia;IDN.25_1;Sulawesi Barat;32;Kanwil Sulawesi Barat;Propinisi;Province;76;ID.SR
+26;IDN;Indonesia;IDN.26_1;Sulawesi Selatan;53;Kanwil Sulawesi Selatan;Propinisi;Province;73;ID.SE
+27;IDN;Indonesia;IDN.27_1;Sulawesi Tengah;64;Kanwil Sulawesi Tengah;Propinisi;Province;72;ID.ST
+28;IDN;Indonesia;IDN.28_1;Sulawesi Tenggara;49;Kanwil Sulawesi Tenggara;Propinisi;Province;74;ID.SG
+29;IDN;Indonesia;IDN.29_1;Sulawesi Utara;34;Kanwil Sulawesi Utara;Propinisi;Province;71;ID.SW
+30;IDN;Indonesia;IDN.30_1;Sumatera Barat;93;Kanwil Sumatera Barat;Propinisi;Province;13;ID.SB
+31;IDN;Indonesia;IDN.31_1;Sumatera Selatan;53;Kanwil Sumatera Selatan;Propinisi;Province;16;ID.SL
+32;IDN;Indonesia;IDN.32_1;Sumatera Utara;59;Kanwil Sumatera Utara;Propinisi;Province;12;ID.SU
+33;IDN;Indonesia;IDN.33_1;Yogyakarta;87;Kanwil Yogyakarta;Propinisi;Province;34;ID.YO
